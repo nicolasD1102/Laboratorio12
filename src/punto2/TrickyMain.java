@@ -10,6 +10,7 @@ public class TrickyMain {
 	// main
 	public static void main(String[] args) {
 		// declaracion del frame
+		// siuuu
 		TrickyVentana frame = new TrickyVentana();
 		frame.setVisible(true);
 		
